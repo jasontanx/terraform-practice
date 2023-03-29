@@ -1,0 +1,8 @@
+Useful Ressources:
+
+1. Google Cloud BigQuery with Terraform
+https://www.youtube.com/watch?v=UdBfmbJY9ug&t=133s
+
+2. Terraform on Google Cloud | #01 Project Setup
+https://www.youtube.com/watch?v=e_8LZL2Th_4
+
