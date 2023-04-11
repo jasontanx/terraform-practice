@@ -18,3 +18,4 @@ terraform init > terraform fmt > terraform validate > terraform plan > terraform
 Extra Resources (for reference)
 1. Credentials & terraform on GCP google cloud --> https://www.youtube.com/watch?v=V-q_h0a8dvo 
 2. BigQuery & terraform --> https://www.youtube.com/watch?v=UdBfmbJY9ug&t=133s 
+3. About Terraform --> https://github.com/alfonsof/terraform-google-cloud-examples/tree/master/code/01-hello-world
