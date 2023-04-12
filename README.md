@@ -23,3 +23,8 @@ Extra Resources (for reference)
 1. Credentials & terraform on GCP google cloud --> https://www.youtube.com/watch?v=V-q_h0a8dvo 
 2. BigQuery & terraform --> https://www.youtube.com/watch?v=UdBfmbJY9ug&t=133s 
 3. About Terraform --> https://github.com/alfonsof/terraform-google-cloud-examples/tree/master/code/01-hello-world
+
+Next plan:
+Terraform practice with variables: 
+
+--> Instead of hard-coding values like the project ID and dataset ID in your Terraform code, try using variables to make your code more reusable and flexible. You can define variables in a separate file or in the same file as your code using the 
