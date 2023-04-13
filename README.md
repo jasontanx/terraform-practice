@@ -8,6 +8,7 @@ No. | Items | Date Updated
 --- | --- | ---
 1 | Terraform Introduction | 07 April 2023
 2 | Create table in BigQuery through Terraform | 09 April 2023
+3 | Terraform variables exploration | 13 April 2023
 
 
 CLI Notes:
